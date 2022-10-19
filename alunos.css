@@ -1,0 +1,18 @@
+body {
+    background-color: #959595;
+}
+
+table {
+    margin: 15% auto;
+    background-color: white;
+    width: 500px;
+}
+
+table, tr, th, td {
+    border: 2px solid black;
+    text-align: center;
+}
+
+th {
+    font-size: 1.5em;
+}

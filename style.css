@@ -1,0 +1,14 @@
+body {
+    background-color: #959595;
+}
+
+table {
+    margin: 15% auto;
+    background-color: white;
+}
+
+table, tr, th, td {
+    border: 2px solid black;
+    text-align: center;
+}
+
